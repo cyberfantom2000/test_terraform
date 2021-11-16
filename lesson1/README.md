@@ -458,13 +458,12 @@
 ## Развернутая VM
 <details>
    <summary> Развернуть </summary>
-   ![Alt vm](https://raw.githubusercontent.com/touch-my-tralala/test_terraform/main/aws%20instance.png "AWS VM")
+   ![Alt vm](https://raw.githubusercontent.com/touch-my-tralala/test_terraform/main/img/aws%20instance.png "AWS VM")
 </details>
 
 <a name = "screen_nginx"></a>
 ## Welcome-страница nginx
 <details>
    <summary> Развернуть </summary>
-   ![Alt nginx](https://raw.githubusercontent.com/touch-my-tralala/test_terraform/main/welcom%20to%20nginx.png "Nginx")
+   ![Alt nginx](https://raw.githubusercontent.com/touch-my-tralala/test_terraform/main/img/welcom%20to%20nginx.png "Nginx")
 </details>
-   
